@@ -1,5 +1,5 @@
 import React from 'react'
-import NavLink from './NavLink'
+import NavLink from './../../01-setting-up/modules/NavLink'
 
 export default React.createClass({
   render() {
